@@ -4,15 +4,15 @@
 
 ### _Introdução_
 
-Neste documento será apresentado informações sobre como configurar um roteador, passo a passo. 
+Neste documento será apresentado informações sobre como configurar um roteador, passo a passo, tendo como objetivo ensinar as pessoas a configurar manualmente, além de explicar de maneira detalhada o que se pede em cada um.
 
 ---
 
-passo 1:
+### *passo 1:*
 
 ![{FC04E39A-5FF7-48C2-B59C-F5E5FE526F2E}](https://github.com/user-attachments/assets/aa113aab-9731-48eb-a5b2-2683c8deebde)
 
-Inicialmente, vai aparecer essa tela, que é para vc configurar a sua localidade e seu horário padrão.
+Inicialmente, irá aparecer essa tela para o usuário, na mesma será necessário inserir suas informações sobre seu local e seu horário padrão. Após isso, clice em 
 
 ### *passo 2:*
 
